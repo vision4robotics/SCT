@@ -2,7 +2,7 @@
 
 This is the official code for the paper "Tracker Meets Night: A Transformer Enhancer for UAV Tracking"
 
-The spatial-channel Transformer (SCT) enhancer is a task-inspired low-light enhancer toward facilitating UAV tracking. Unlike general SOTA low-light enhancement approaches, the enhancement results of SCT may not satisfy the evaluation metrics of low-level image restoration tasks, but the performance gains that SCT brought to nighttime UAV tracking surpass general low-light enhancers.
+The spatial-channel Transformer (SCT) enhancer is a task-inspired low-light enhancer toward facilitating nighttime UAV tracking. Evaluations on the public UAVDark135 and the newly constructed DarkTrack2021 benchmarks demonstrate that the performance gains of SCT brought to nighttime UAV tracking surpass general low-light enhancers.
 
 SCT has been submitted to RA-L.
 
