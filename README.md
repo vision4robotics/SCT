@@ -49,7 +49,7 @@ cd pytracking
 python run_tracker.py --tracker_name dimp --tracker_param dimp18/dimp50/prdimp50 --enhance 
 ```
 
-<img src="https://github.com/vision4robotics/SCT/blob/main/image/UAVDark135.png" width="180"><img src="https://github.com/vision4robotics/SCT/blob/main/image/DarkTrack2021.png" width="180">
+<img src="https://github.com/vision4robotics/SCT/blob/main/image/UAVDark135.png" width="300"><img src="https://github.com/vision4robotics/SCT/blob/main/image/DarkTrack2021.png" width="300">
 
 
 ## DarkTrack2021 Benchmark
