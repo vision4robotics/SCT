@@ -54,7 +54,11 @@ python run_tracker.py --tracker_name dimp --tracker_param dimp18/dimp50/prdimp50
 
 ## DarkTrack2021 Benchmark
 
-Coming soon~
+The DarkTrack2021 benchmark comprises 110 challenging sequences with 100K frames in total. All sequences are captured at nighttime in urban scenes with a frame-rate of 30 frames/s (FPS). Some first frames of selected sequences in DarkTrack2021 are displayed below.
+
+![first frames](https://github.com/vision4robotics/SCT/blob/main/image/frames.png)
+
+DarkTrack2021 is now available [here](https://pan.baidu.com/s/1x8KdPkfftQSxKErO-o-Yhw) (password: a4lq).
 
 ## Demo Video
 
