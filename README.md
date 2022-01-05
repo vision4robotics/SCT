@@ -1,10 +1,8 @@
-# SCT
+# Tracker Meets Night: A Transformer Enhancer for UAV Tracking
 
-This is the official code for the paper "Tracker Meets Night: A Transformer Enhancer for UAV Tracking"
+This is the official code for the paper "Tracker Meets Night: A Transformer Enhancer for UAV Tracking" accepted by IEEE RA-L.
 
 The spatial-channel Transformer (SCT) enhancer is a task-inspired low-light enhancer toward facilitating nighttime UAV tracking. Evaluations on the public UAVDark135 and the newly constructed DarkTrack2021 benchmarks demonstrate that the performance gains of SCT brought to nighttime UAV tracking surpass general low-light enhancers.
-
-SCT has been submitted to RA-L with ICRA option.
 
 ## Environment Preparing
 ```
@@ -63,6 +61,18 @@ DarkTrack2021 is now available [here](https://pan.baidu.com/s/1LQ8MrfGRiW4A_gGWI
 ## Demo Video
 
 [![Demo of SCT](https://res.cloudinary.com/marcomontalbano/image/upload/v1631463588/video_to_markdown/images/youtube--I1eZnJ_dbfg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/I1eZnJ_dbfg "Demo of SCT")
+
+## Citation
+
+If you find this work or code is helpful, please consider to cite our paper:
+
+> @ARTICLE{Ye_2022_RAL,
+>   author={Ye, Junjie and Fu, Changhong and Cao, Ziang and An, Shan and Zheng, Guangze and Li, Bowen},
+>   journal={IEEE Robotics and Automation Letters}, 
+>   title={{Tracker Meets Night: A Transformer Enhancer for UAV Tracking}}, 
+>   year={2022},
+>   pages={1-8},
+>   }
 
 ## Contact
 
