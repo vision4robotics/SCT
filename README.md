@@ -64,7 +64,7 @@ DarkTrack2021 is now available [here](https://pan.baidu.com/s/1LQ8MrfGRiW4A_gGWI
 
 ## Citation
 
-If you find this work or code is helpful, please consider to cite our paper:
+If you find this work or code is helpful, please consider citing our paper:
 
 > @ARTICLE{Ye_2022_RAL,
 >   author={Ye, Junjie and Fu, Changhong and Cao, Ziang and An, Shan and Zheng, Guangze and Li, Bowen},
