@@ -69,13 +69,25 @@ DarkTrack2021 is now available [here]((https://darktrack2021.netlify.app/)).
 
 If you find this work or code is helpful, please consider citing our paper:
 
-> @ARTICLE{Ye_2022_RAL,
->   author={Ye, Junjie and Fu, Changhong and Cao, Ziang and An, Shan and Zheng, Guangze and Li, Bowen},
->   journal={IEEE Robotics and Automation Letters}, 
->   title={{Tracker Meets Night: A Transformer Enhancer for UAV Tracking}}, 
->   year={2022},
->   pages={1-8},
->   }
+> @ARTICLE{Ye_2022_RAL,  
+>
+> author={Ye, Junjie and Fu, Changhong and Cao, Ziang and An, Shan and Zheng, Guangze and Li, Bowen},  
+>
+> journal={IEEE Robotics and Automation Letters},   
+>
+> title={{Tracker Meets Night: A Transformer Enhancer for UAV Tracking}},   
+>
+> year={2022},  
+>
+> volume={7},  
+>
+> number={2},  
+>
+> pages={3866-3873},  
+>
+> doi={10.1109/LRA.2022.3146911}
+>
+> }
 
 ## Contact
 
